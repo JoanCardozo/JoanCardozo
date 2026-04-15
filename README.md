@@ -38,7 +38,7 @@
 ### 📊 Mis Estadísticas
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es&layout=compact" />
 </p>
 
 <p align="center">
