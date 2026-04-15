@@ -36,9 +36,12 @@
 ---
 
 ### 📊 Mis Estadísticas
+| Estadísticas Generales | Lenguajes más usados |
+| :---: | :---: |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es" width="400px" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es&layout=compact" width="400px" /> |
+
 <p align="center">
-  <img width="48.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es" />
-  <img width="47.5%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es&layout=compact" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joancardozo&theme=visual_studio_dark" />
 </p>
 
 <p align="center">
