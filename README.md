@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joancardozo&label=Profile%20views&color=0e75b6&style=flat" alt="joancardozo" /> </p>
 
-- 👯 I’m looking to collaborate on **aplicaciones web integrales donde pueda aportar con la arquitectura en C# y el diseño de componentes dinámicos en React."**
+- 👯 Estoy buscando colaborar en **aplicaciones web integrales donde pueda aportar con la arquitectura en C# y el diseño de componentes dinámicos en React."**
 
 - 📫 Cómo contactarme **j.stiven.cardavi@gmail.com**
 
