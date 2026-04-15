@@ -37,8 +37,8 @@
 
 ### 📊 Mis Estadísticas
 <p align="center">
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es" />
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es&layout=compact" />
+  <img width="48.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es" />
+  <img width="47.5%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joancardozo&show_icons=true&theme=visual_studio_dark&locale=es&layout=compact" />
 </p>
 
 <p align="center">
