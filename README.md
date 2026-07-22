@@ -10,7 +10,7 @@
 ### 🤓 Sobre mí
 - 👯 Estoy buscando colaborar en **aplicaciones web integrales** donde pueda aportar con arquitectura en **C#** y componentes dinámicos en **React**.
 - 📫 Cómo contactarme: **j.stiven.cardavi@gmail.com**
-- 💬 Hablemos por WhatsApp: **+57 3506606850**
+- 💬 Hablemos por WhatsApp: **+57 323 9913688**
 - 💼 Portafolio Personal: https://joancardozo.github.io/Mi-Portafolio/
 
 ---
