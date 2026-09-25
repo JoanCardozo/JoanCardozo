@@ -1,22 +1,20 @@
 <h1 align="center">Joan Cardozo</h1>
 
 <h3 align="center">
-  Software Developer | C# / .NET | JavaScript | React | SQL Server
+  Software Developer | C# / .NET | JavaScript | React | SQL Server | Azure
 </h3>
 
 <p align="center">
-  <a href="https://github.com/joancardozo">
-    <img src="https://komarev.com/ghpvc/?username=joancardozo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=joancardozo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
 ## About Me
 
-Software Developer focused on building web applications using **C#/.NET, JavaScript, React and SQL Server**.
+Software Developer focused on building and maintaining web applications using **C#/.NET, JavaScript, React and SQL Server**.
 
-I am interested in contributing to web applications where I can work on both backend and frontend development, improve existing solutions, integrate APIs and build maintainable software.
+I am interested in contributing to web applications where I can work on backend and frontend development, REST API integration, database optimization, application maintenance and the implementation of maintainable software solutions.
 
 My current focus includes:
 
@@ -24,8 +22,9 @@ My current focus includes:
 - REST API development and integration
 - Frontend development with **React and JavaScript**
 - Database development with **SQL Server**
+- Cloud and application services with **Microsoft Azure**
 - Application maintenance, refactoring and optimization
-- Software development following clean and maintainable coding practices
+- Clean Code, SOLID and Object-Oriented Programming
 - Collaborative development using **Git, GitHub and Scrum**
 
 ---
@@ -51,14 +50,20 @@ My current focus includes:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### Database & Tools
+### Database & Cloud
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+</p>
+
+### Tools & Practices
+
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
 </p>
 
 ---
@@ -70,35 +75,31 @@ My current focus includes:
 | Backend | C#, .NET, ASP.NET, REST APIs |
 | Frontend | JavaScript, React, HTML5, CSS3, Bootstrap |
 | Database | SQL Server, Stored Procedures, Query Optimization |
+| Cloud | Microsoft Azure |
 | Tools | Git, GitHub, Jira, Figma |
-| Methodologies | Scrum, Clean Code, SOLID |
+| Methodologies | Scrum, Clean Code, SOLID, Object-Oriented Programming |
 | Testing & Automation | Selenium WebDriver |
 
 ---
 
-## Featured Projects
+## Portfolio
 
-### Personal Portfolio
+<p align="center">
+  <a href="https://joancardozo.github.io/Mi-Portafolio/">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-Personal portfolio showcasing my projects, technical skills and experience.
-
-[View Portfolio](https://joancardozo.github.io/Mi-Portafolio/)
-
-### Unity 2D Platformer
-
-2D platformer developed with **Unity and C#**, focused on gameplay mechanics, character movement, animation, collisions and level design.
-
-[View Repository](https://github.com/joancardozo)
+My portfolio contains selected projects, technical implementations and additional information about my development experience.
 
 ---
 
-## GitHub
+## Languages
 
-<p align="center">
-  <a href="https://github.com/joancardozo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joancardozo&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-  </a>
-</p>
+| Language | Level |
+| :--- | :--- |
+| Spanish | Native |
+| English | A2–B1 |
 
 ---
 
@@ -122,12 +123,8 @@ Personal portfolio showcasing my projects, technical skills and experience.
   </a>
 </p>
 
----
-
-## Portfolio
-
-<p align="center">
-  <a href="https://joancardozo.github.io/Mi-Portafolio/">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<p>
+  <a href="https://github.com/joancardozo">
+    GitHub: @joancardozo
   </a>
 </p>
