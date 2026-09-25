@@ -106,7 +106,7 @@ My portfolio contains selected projects, technical implementations and additiona
 ## Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/joan-stiven-cardozo-avila-99a15732a">
+  <a href="[www.linkedin.com/in/joan-stiven-cardozo-avila-99a15732a](https://www.linkedin.com/in/joan-stiven-cardozo-avila-99a15732a/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
